@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Gestiunea Profilurilor de Candidați Integrată cu LinkedIn
 
 ## Despre Proiect
@@ -54,6 +54,11 @@ Acest proiect vizează dezvoltarea unei aplicații web pentru gestionarea profil
 - **Codul Sursă:** Disponibil pe GitHub.
 - **Documentație:** Ghid de utilizare și documentație tehnică.
 - **Demo Aplicație:** Versiune live pentru demonstrație.
+
+
+
+
+
 =======
 # Getting Started with Create React App
 
